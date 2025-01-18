@@ -2,6 +2,9 @@
 
 Cette documentation explique comment configurer **MetaMask** pour se connecter à un réseau **RedHat local** simulé avec **Hardhat**. Vous apprendrez à configurer MetaMask pour interagir avec un nœud blockchain local, ce qui est essentiel pour tester des Smart Contracts ou des applications décentralisées (dApps) dans un environnement de développement.
 
+
+[English Version](./README_EN.md)
+
 ---
 
 ## Introduction à MetaMask et RedHat
@@ -134,4 +137,5 @@ Vous avez maintenant configuré MetaMask pour interagir avec un réseau RedHat l
 
 Pour aller plus loin, explorez la documentation officielle de [MetaMask](https://metamask.io/faq.html) et de [Hardhat](https://hardhat.org/docs).
 
----
+--- 
+
