@@ -1,6 +1,16 @@
 # Documentation : Configurer MetaMask pour se connecter à un réseau RedHat local
 
-Cette documentation sur la configuration de **MetaMask** pour se connecter à un réseau **RedHat local** (simulé avec Hardhat). Vous apprendrez à configurer MetaMask pour interagir avec un nœud blockchain local, ce qui est essentiel pour tester des Smart Contracts ou des applications décentralisées (dApps) dans un environnement de développement.
+Cette documentation explique comment configurer **MetaMask** pour se connecter à un réseau **RedHat local** simulé avec **Hardhat**. Vous apprendrez à configurer MetaMask pour interagir avec un nœud blockchain local, ce qui est essentiel pour tester des Smart Contracts ou des applications décentralisées (dApps) dans un environnement de développement.
+
+---
+
+## Introduction à MetaMask et RedHat
+
+### **MetaMask**
+MetaMask est un portefeuille Ethereum populaire qui permet aux utilisateurs de gérer leurs comptes Ethereum, d'interagir avec des applications décentralisées (dApps) et d'effectuer des transactions sur la blockchain. Il est disponible en tant qu'extension de navigateur (pour Chrome, Firefox, Brave, etc.) et en tant qu'application mobile. MetaMask agit comme une interface entre l'utilisateur et la blockchain, facilitant la gestion des clés privées, la signature des transactions et la connexion à différents réseaux Ethereum.
+
+### **RedHat**
+RedHat est un système d'exploitation basé sur Linux, largement utilisé dans les environnements professionnels pour sa stabilité et sa sécurité. Dans ce contexte, "RedHat local" fait référence à un environnement de développement local configuré pour simuler un réseau blockchain. Hardhat, un framework de développement Ethereum, est utilisé pour créer et gérer ce réseau local. Hardhat permet de déployer des Smart Contracts, d'exécuter des tests et de simuler des transactions dans un environnement isolé.
 
 ---
 
